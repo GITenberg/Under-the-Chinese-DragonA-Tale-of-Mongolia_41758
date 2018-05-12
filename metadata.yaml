@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '34828'
     url: http://www.gutenberg.org/2009/agents/34828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41758#Under-the-Chinese-DragonA-Tale-of-Mongolia
 gutenberg_issued: '2013-01-02'
 gutenberg_type: Text
 identifiers:
